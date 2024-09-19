@@ -3,11 +3,11 @@
 
 ### Flag
 
-![flag](./images/flag.png)
+![flag](./Images/flag.png)
 
 ### No flag
 
-![noflag](./images/noflag.png)
+![noflag](./Images/noflag.png)
 
 
 ## Favorite OST
